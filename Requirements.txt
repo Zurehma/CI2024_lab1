@@ -1,0 +1,3 @@
+The required libraries for this project are:
+1. numpy
+2. icecream
